@@ -1,1 +1,2 @@
-# 8-Queens-Problem
+The 8-Queens problem is a puzzle in which you need to place eight queens on an 8x8 chessboard in such a way that no two queens threaten each other. This means no two queens should be in the same row, column, or diagonal.
+The code is demonstrates how a genetic algorithm can be applied to find a solution to the 8-Queens problem. The genetic algorithm evolves a population of potential solutions over generations, using selection, crossover, and mutation operations to search for a configuration where no two queens threaten each other. The goal is to maximize the fitness of the solutions, which is defined based on minimizing conflicts between queens on the chessboard.
